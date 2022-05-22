@@ -1,0 +1,18 @@
+{
+    "short_name": "PDWA5: Prática PWA",
+    "name": "PDWA5",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff",
+    "background_color": "#000000",
+    "background-color": "#000000",
+    "description": "my site description",
+    "icons": [
+      {
+        "src": "./logo.png",
+        "type": "./png",
+        "sizes": "182x182"
+      }
+    ]
+  }
